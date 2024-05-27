@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://xristostsilis.github.io/artinpatra/static/css/main.9b1544ea.chunk.css",
-    "main.js": "https://xristostsilis.github.io/artinpatra/static/js/main.5b80f6b8.chunk.js",
-    "main.js.map": "https://xristostsilis.github.io/artinpatra/static/js/main.5b80f6b8.chunk.js.map",
-    "runtime-main.js": "https://xristostsilis.github.io/artinpatra/static/js/runtime-main.7fa1d489.js",
-    "runtime-main.js.map": "https://xristostsilis.github.io/artinpatra/static/js/runtime-main.7fa1d489.js.map",
-    "static/css/2.fe62fa80.chunk.css": "https://xristostsilis.github.io/artinpatra/static/css/2.fe62fa80.chunk.css",
-    "static/js/2.9a225de7.chunk.js": "https://xristostsilis.github.io/artinpatra/static/js/2.9a225de7.chunk.js",
-    "static/js/2.9a225de7.chunk.js.map": "https://xristostsilis.github.io/artinpatra/static/js/2.9a225de7.chunk.js.map",
-    "static/js/3.49638cf4.chunk.js": "https://xristostsilis.github.io/artinpatra/static/js/3.49638cf4.chunk.js",
-    "static/js/3.49638cf4.chunk.js.map": "https://xristostsilis.github.io/artinpatra/static/js/3.49638cf4.chunk.js.map",
-    "index.html": "https://xristostsilis.github.io/artinpatra/index.html",
-    "precache-manifest.324395498137f16fd60a473de511a0de.js": "https://xristostsilis.github.io/artinpatra/precache-manifest.324395498137f16fd60a473de511a0de.js",
-    "service-worker.js": "https://xristostsilis.github.io/artinpatra/service-worker.js",
-    "static/css/2.fe62fa80.chunk.css.map": "https://xristostsilis.github.io/artinpatra/static/css/2.fe62fa80.chunk.css.map",
-    "static/css/main.9b1544ea.chunk.css.map": "https://xristostsilis.github.io/artinpatra/static/css/main.9b1544ea.chunk.css.map",
-    "static/js/2.9a225de7.chunk.js.LICENSE.txt": "https://xristostsilis.github.io/artinpatra/static/js/2.9a225de7.chunk.js.LICENSE.txt"
+    "main.css": "/artinpatra/static/css/main.9b1544ea.chunk.css",
+    "main.js": "/artinpatra/static/js/main.349b38e9.chunk.js",
+    "main.js.map": "/artinpatra/static/js/main.349b38e9.chunk.js.map",
+    "runtime-main.js": "/artinpatra/static/js/runtime-main.9f490d08.js",
+    "runtime-main.js.map": "/artinpatra/static/js/runtime-main.9f490d08.js.map",
+    "static/css/2.fe62fa80.chunk.css": "/artinpatra/static/css/2.fe62fa80.chunk.css",
+    "static/js/2.9a225de7.chunk.js": "/artinpatra/static/js/2.9a225de7.chunk.js",
+    "static/js/2.9a225de7.chunk.js.map": "/artinpatra/static/js/2.9a225de7.chunk.js.map",
+    "static/js/3.49638cf4.chunk.js": "/artinpatra/static/js/3.49638cf4.chunk.js",
+    "static/js/3.49638cf4.chunk.js.map": "/artinpatra/static/js/3.49638cf4.chunk.js.map",
+    "index.html": "/artinpatra/index.html",
+    "precache-manifest.92370cd595f2186387c8b60acc6c5519.js": "/artinpatra/precache-manifest.92370cd595f2186387c8b60acc6c5519.js",
+    "service-worker.js": "/artinpatra/service-worker.js",
+    "static/css/2.fe62fa80.chunk.css.map": "/artinpatra/static/css/2.fe62fa80.chunk.css.map",
+    "static/css/main.9b1544ea.chunk.css.map": "/artinpatra/static/css/main.9b1544ea.chunk.css.map",
+    "static/js/2.9a225de7.chunk.js.LICENSE.txt": "/artinpatra/static/js/2.9a225de7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fa1d489.js",
+    "static/js/runtime-main.9f490d08.js",
     "static/css/2.fe62fa80.chunk.css",
     "static/js/2.9a225de7.chunk.js",
     "static/css/main.9b1544ea.chunk.css",
-    "static/js/main.5b80f6b8.chunk.js"
+    "static/js/main.349b38e9.chunk.js"
   ]
 }
