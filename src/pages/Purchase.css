@@ -1,0 +1,99 @@
+.purchase-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.purchase-page h2 {
+  margin-bottom: 20px;
+}
+
+.seat-selection {
+  margin-bottom: 30px;
+}
+
+.seats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.seat {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.seat.selected {
+  background-color: #4caf50;
+  color: white;
+}
+
+.payment-options {
+  margin-top: 30px;
+}
+
+.payment-options form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.payment-options label {
+  width: 100%;
+  margin: 10px 0 5px;
+}
+
+.payment-options input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.alternative-payments {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.alternative-payments button {
+  width: 45%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.paypal-button {
+  background-color: #ffc439;
+}
+
+.applepay-button {
+  background-color: #000;
+  color: white;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}

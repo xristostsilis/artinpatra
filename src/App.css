@@ -1,0 +1,88 @@
+/* App.css */
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.content {
+  flex: 1;
+}
+
+.navbar {
+  background-color: #282c34;
+  padding: 10px;
+}
+
+.navbar-logo {
+  font-size: 1.5em;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links {
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+}
+
+.events-page {
+  flex: 1;
+  padding: 20px;
+}
+
+.events {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.event-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  max-width: 300px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.event-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+.event-card-content {
+  padding: 10px;
+}
+
+.event-card h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.event-card p {
+  margin: 10px 0;
+}
+
+.event-card:hover {
+  transform: scale(1.05);
+}
+
+.past-event {
+  background: #f0f0f0;
+  color: #999;
+  pointer-events: none;
+}

@@ -1,0 +1,175 @@
+[
+    {
+      "title": "Θεατρική Παράσταση \"Οιδίπους Τύραννος\"",
+      "date": "2024-05-28",
+      "location": "Δημοτικό Θέατρο Απόλλων",
+      "description": "Μια σύγχρονη αναβίωση του κλασικού έργου του Σοφοκλή.",
+      "image": "/images/events/actualEvents/1.jpeg",
+      "rating": 4,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Συναυλία \"Μαρία Φαραντούρη\"",
+      "date": "2024-06-05",
+      "location": "Ρωμαϊκό Ωδείο Πατρών",
+      "description": "Η μεγάλη ερμηνεύτρια σε μια μοναδική συναυλία.",
+      "image": "/images/events/actualEvents/2.jpeg",
+      "rating": 5,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Έκθεση Ζωγραφικής \"Ταξίδι στο Χρώμα\"",
+      "date": "2024-06-10",
+      "location": "Αρχαιολογικό Μουσείο Πατρών",
+      "description": "Μια μοναδική συλλογή έργων τέχνης από σύγχρονους καλλιτέχνες.",
+      "image": "/images/events/actualEvents/3.jpeg",
+      "rating": 3,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Θεατρικό Δρώμενο \"Αντιγόνη\"",
+      "date": "2024-06-15",
+      "location": "Θέατρο Λιθογραφείο",
+      "description": "Η τραγωδία του Σοφοκλή ζωντανεύει σε μια νέα σκηνοθεσία.",
+      "image": "/images/events/actualEvents/4.jpeg",
+      "rating": 4,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Συναυλία \"Πυξ Λαξ\"",
+      "date": "2024-06-20",
+      "location": "Στάδιο Παναχαϊκής",
+      "description": "Η αγαπημένη ελληνική μπάντα σε μια βραδιά γεμάτη επιτυχίες.",
+      "image": "/images/events/actualEvents/5.jpeg",
+      "rating": 5,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Κινηματογραφική Προβολή \"Inception\"",
+      "date": "2024-06-25",
+      "location": "Σινεμά Πάνθεον",
+      "description": "Η γνωστή ταινία του Κρίστοφερ Νόλαν σε μια ειδική προβολή.",
+      "image": "/images/events/actualEvents/6.jpeg",
+      "rating": 4,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Διάλεξη \"Η Ιστορία της Πάτρας\"",
+      "date": "2024-06-30",
+      "location": "Πολιτιστικό Κέντρο Πατρών",
+      "description": "Μια διάλεξη για την ιστορία της πόλης μας.",
+      "image": "/images/events/actualEvents/7.jpeg",
+      "rating": 3,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Συναυλία \"Μουσική του Κόσμου\"",
+      "date": "2024-07-05",
+      "location": "Πάρκο Ειρήνης",
+      "description": "Μια βραδιά με μουσική από όλο τον κόσμο.",
+      "image": "/images/events/actualEvents/8.jpeg",
+      "rating": 5,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Θεατρική Παράσταση \"Μήδεια\"",
+      "date": "2024-07-10",
+      "location": "Δημοτικό Θέατρο Απόλλων",
+      "description": "Η κλασική τραγωδία του Ευριπίδη σε νέα σκηνοθεσία.",
+      "image": "/images/events/actualEvents/9.jpeg",
+      "rating": 4,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Φεστιβάλ Κινηματογράφου",
+      "date": "2024-07-15",
+      "location": "Σινεμά Πάνθεον",
+      "description": "Το ετήσιο φεστιβάλ κινηματογράφου με ταινίες από όλο τον κόσμο.",
+      "image": "/images/events/actualEvents/10.jpeg",
+      "rating": 5,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Συναυλία \"Ροκ Βραδιά\"",
+      "date": "2024-07-20",
+      "location": "Στάδιο Παναχαϊκής",
+      "description": "Μια βραδιά γεμάτη ροκ μουσική από ελληνικά συγκροτήματα.",
+      "image": "/images/events/actualEvents/11.jpeg",
+      "rating": 4,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Έκθεση Φωτογραφίας \"Η Πάτρα μέσα από τον Φακό\"",
+      "date": "2024-07-25",
+      "location": "Αρχαιολογικό Μουσείο Πατρών",
+      "description": "Έκθεση φωτογραφίας με θέμα την πόλη της Πάτρας.",
+      "image": "/images/events/actualEvents/12.jpeg",
+      "rating": 3,
+      "type": "Εσωτερικός"
+    },
+
+    {
+      "title": "Συναυλία \"Ελληνική Μουσική\"",
+      "date": "2024-08-05",
+      "location": "Ρωμαϊκό Ωδείο Πατρών",
+      "description": "Βραδιά με αγαπημένα ελληνικά τραγούδια.",
+      "image": "/images/events/actualEvents/14.jpeg",
+      "rating": 5,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Διάλεξη \"Αρχαία Ελλάδα\"",
+      "date": "2024-08-10",
+      "location": "Πολιτιστικό Κέντρο Πατρών",
+      "description": "Μια διάλεξη για την αρχαία ελληνική ιστορία και πολιτισμό.",
+      "image": "/images/events/actualEvents/15.jpeg",
+      "rating": 4,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Συναυλία \"Jazz Night\"",
+      "date": "2024-08-15",
+      "location": "Πάρκο Ειρήνης",
+      "description": "Βραδιά με ζωντανή τζαζ μουσική.",
+      "image": "/images/events/actualEvents/16.jpeg",
+      "rating": 5,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Θεατρική Παράσταση \"Ηλέκτρα\"",
+      "date": "2024-08-20",
+      "location": "Θέατρο Λιθογραφείο",
+      "description": "Η τραγωδία του Ευριπίδη σε νέα σκηνοθεσία.",
+      "image": "/images/events/actualEvents/17.jpeg",
+      "rating": 4,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Έκθεση Ζωγραφικής \"Μοντέρνα Τέχνη\"",
+      "date": "2024-08-25",
+      "location": "Αρχαιολογικό Μουσείο Πατρών",
+      "description": "Έκθεση με μοντέρνα έργα τέχνης.",
+      "image": "/images/events/actualEvents/18.jpeg",
+      "rating": 3,
+      "type": "Εσωτερικός"
+    },
+    {
+      "title": "Συναυλία \"Πανσέληνος\"",
+      "date": "2024-08-30",
+      "location": "Ρωμαϊκό Ωδείο Πατρών",
+      "description": "Μια ειδική συναυλία υπό το φως της πανσελήνου.",
+      "image": "/images/events/actualEvents/19.jpeg",
+      "rating": 5,
+      "type": "Εξωτερικός"
+    },
+    {
+      "title": "Διάλεξη \"Το Σύμπαν και Εμείς\"",
+      "date": "2024-09-05",
+      "location": "Πολιτιστικό Κέντρο Πατρών",
+      "description": "Μια διάλεξη για την επιστήμη και τα μυστήρια του σύμπαντος.",
+      "image": "/images/events/actualEvents/20.jpeg",
+      "rating": 5,
+      "type": "Εσωτερικός"
+    }
+  ]
+  

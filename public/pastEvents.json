@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Θεατρική Παράσταση 'Αντιγόνη'",
+      "date": "2023-02-15",
+      "location": "Δημοτικό Θέατρο Απόλλων",
+      "description": "Μια κλασική παράσταση του Σοφοκλή.",
+      "image": "/images/events/actualEvents/oldEvents/1.jpeg",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "Συναυλία 'Πυξ Λαξ'",
+      "date": "2023-03-20",
+      "location": "Στάδιο Παναχαϊκής",
+      "description": "Η αγαπημένη ελληνική μπάντα σε μια μοναδική βραδιά.",
+      "image": "/images/events/actualEvents/oldEvents/2.jpeg",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "Έκθεση Ζωγραφικής 'Σύγχρονη Τέχνη'",
+      "date": "2023-04-10",
+      "location": "Αρχαιολογικό Μουσείο Πατρών",
+      "description": "Έκθεση έργων από σύγχρονους καλλιτέχνες.",
+      "image": "/images/events/actualEvents/oldEvents/3.jpeg",
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "title": "Μουσική Βραδιά 'Jazz Night'",
+      "date": "2023-05-05",
+      "location": "Ρωμαϊκό Ωδείο Πατρών",
+      "description": "Μια βραδιά γεμάτη τζαζ μουσική από γνωστούς καλλιτέχνες.",
+      "image": "/images/events/actualEvents/oldEvents/4.jpeg",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Θεατρική Παράσταση 'Ηλέκτρα'",
+      "date": "2023-06-18",
+      "location": "Δημοτικό Θέατρο Απόλλων",
+      "description": "Μια μοντέρνα αναβίωση της κλασικής τραγωδίας.",
+      "image": "/images/events/actualEvents/oldEvents/5.jpeg",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "title": "Συναυλία 'Ελευθερία Αρβανιτάκη'",
+      "date": "2023-07-25",
+      "location": "Στάδιο Παναχαϊκής",
+      "description": "Η μεγάλη ερμηνεύτρια σε μια μοναδική συναυλία.",
+      "image": "/images/events/actualEvents/oldEvents/6.jpeg",
+      "rating": 4
+    }
+  ]
+  

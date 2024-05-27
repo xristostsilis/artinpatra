@@ -1,0 +1,45 @@
+.filters-modal-content {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .filter-group {
+    margin-bottom: 15px;
+  }
+  
+  .filter-group label {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+  }
+  
+  .filter-modal-button-group {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .filter-modal-button {
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .filter-modal-button.reset {
+    background-color: red;
+  }
+  
+  .filter-modal-button.apply {
+    background-color: green;
+  }
+  
+  .filter-modal-button.cancel {
+    background-color: gray;
+  }
+  

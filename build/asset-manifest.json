@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/artinpatra/static/css/main.9b1544ea.chunk.css",
+    "main.js": "/artinpatra/static/js/main.12a8b320.chunk.js",
+    "main.js.map": "/artinpatra/static/js/main.12a8b320.chunk.js.map",
+    "runtime-main.js": "/artinpatra/static/js/runtime-main.9f490d08.js",
+    "runtime-main.js.map": "/artinpatra/static/js/runtime-main.9f490d08.js.map",
+    "static/css/2.fe62fa80.chunk.css": "/artinpatra/static/css/2.fe62fa80.chunk.css",
+    "static/js/2.d4b203f2.chunk.js": "/artinpatra/static/js/2.d4b203f2.chunk.js",
+    "static/js/2.d4b203f2.chunk.js.map": "/artinpatra/static/js/2.d4b203f2.chunk.js.map",
+    "static/js/3.49638cf4.chunk.js": "/artinpatra/static/js/3.49638cf4.chunk.js",
+    "static/js/3.49638cf4.chunk.js.map": "/artinpatra/static/js/3.49638cf4.chunk.js.map",
+    "index.html": "/artinpatra/index.html",
+    "precache-manifest.047ea886285e9fec0394c38b95257c2d.js": "/artinpatra/precache-manifest.047ea886285e9fec0394c38b95257c2d.js",
+    "service-worker.js": "/artinpatra/service-worker.js",
+    "static/css/2.fe62fa80.chunk.css.map": "/artinpatra/static/css/2.fe62fa80.chunk.css.map",
+    "static/css/main.9b1544ea.chunk.css.map": "/artinpatra/static/css/main.9b1544ea.chunk.css.map",
+    "static/js/2.d4b203f2.chunk.js.LICENSE.txt": "/artinpatra/static/js/2.d4b203f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f490d08.js",
+    "static/css/2.fe62fa80.chunk.css",
+    "static/js/2.d4b203f2.chunk.js",
+    "static/css/main.9b1544ea.chunk.css",
+    "static/js/main.12a8b320.chunk.js"
+  ]
+}
