@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72f7ef9e2ada47bd2305a619d87a6188",
+    "revision": "10db872645d533d1afb179c14b3e80bc",
     "url": "/artinpatra/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artinpatra/static/css/2.fe62fa80.chunk.css"
   },
   {
-    "revision": "196aebbf5f9d5f7fca2c",
+    "revision": "fab1301f9821ad78c928",
     "url": "/artinpatra/static/css/main.9b1544ea.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artinpatra/static/js/3.49638cf4.chunk.js"
   },
   {
-    "revision": "196aebbf5f9d5f7fca2c",
-    "url": "/artinpatra/static/js/main.ab99f39a.chunk.js"
+    "revision": "fab1301f9821ad78c928",
+    "url": "/artinpatra/static/js/main.7539ddb7.chunk.js"
   },
   {
     "revision": "39b4c259d98a170843bf",
